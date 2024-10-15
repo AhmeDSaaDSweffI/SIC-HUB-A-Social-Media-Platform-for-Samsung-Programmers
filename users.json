@@ -1,0 +1,54 @@
+{
+    "ahmed@gmail.com": {
+        "first_name": "ahmed",
+        "last_name": "baher",
+        "password": "1234",
+        "profile_pic": "toppng.com-liverpool-fc-logo-png-500x500.png",
+        "cover_pic": "sport-stadium-football-wallpaper-preview.jpg",
+        "posts": {
+            "1": {
+                "content": "This is John's first post!",
+                "likes": 24,
+                "comment": [
+                    "Great post!",
+                    "hi",
+                    "welcome to sic hub"
+                ],
+                "date": "18/10/2024",
+                "liked_by": [
+                    "ahmed@gmail.com"
+                ]
+            }
+        }
+    },
+    "reem@gmail.com": {
+        "first_name": "reem",
+        "last_name": "waleed",
+        "password": "1234",
+        "profile_pic": "cat.png",
+        "cover_pic": "defaultCov.png",
+        "posts": {
+            "1": {
+                "content": "Welcome to my profile! This is my first post.",
+                "likes": 0,
+                "comment": [
+                    "hi reem!"
+                ],
+                "date": "29/9/2024"
+            },
+            "2": {
+                "content": "Can someone help me with classes inheritance? i'm stuck :(",
+                "likes": 1,
+                "comment": [],
+                "date": "17/10/2024"
+            },
+            "3": {
+                "content": "i hate Tkinter :(((",
+                "likes": 1,
+                "comment": [],
+                "date": "17/10/2024"
+            }
+        }
+    }
+
+}
