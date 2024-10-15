@@ -1,0 +1,20 @@
+{
+    "group_chat": [
+        {
+            "sender": "ahmed@gmail.com",
+            "message": "Hello everyone!",
+            "timestamp": "2024-10-18 12:00"
+        },
+        {
+            "sender": "ahmed@gmail.com",
+            "message": "Hi Ahmed, how are you?",
+            "timestamp": "2024-10-18 12:05"
+        },
+        {
+            "sender": "reem@gmail.com",
+            "message": "Good to see you all here!",
+            "timestamp": "2024-10-18 12:10"
+        }
+
+    ]
+}
