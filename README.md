@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace the placeholder below with your project logo (e.g. logooo.jpg) -->
-<img src="https://via.placeholder.com/160x160.png?text=SIC+HUB" alt="SIC HUB Logo" width="160" height="160" />
+<img src="[https://via.placeholder.com/160x160.png?text=SIC+HUB](https://github.com/user-attachments/assets/0cfa18db-fd66-4de2-bcfc-6cd3ffa3ac73)" alt="SIC HUB Logo" width="160" height="160" />
 
 # 🌐 SIC HUB
 
